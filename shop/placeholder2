@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+            
+<head>
+    <meta charset="UTF-8">
+    <title>MYLANIE'S KNITWEAR Shop</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Shantell+Sans:ital,wght@0,300;0,400;1,700&display=swap" rel="stylesheet">
+    <script src="../script.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+</head>
+    <body>
+        <header class="extra-hero">
+            <div class="content-wrapper">       
+                    <h1><center><span>Mylanie's Knitwear</span></center></h1>
+                        <nav>
+                            <ul> 
+                                <li>
+                                    <button style="font-size:20px"><i class="bi bi-house"></i></button>
+                                </li>
+
+                                <li>
+                                    <button style="font-size:20px"><i class="bi bi-envelope"></i></button>
+                                </li>
+
+                                <li>
+                                    <button style="font-size:20px"><i class="bi bi-shop"></i></button>
+                                </li>
+
+                                <li>
+                                    <button style="font-size:20px"><i class="bi bi-cart2"></i></button>
+                                </li>
+                            </ul>  
+                        </nav>                
+                </div>      
+                                <div class="content-wrapper">
+                                    <div class="shop-gallery">
+                                        <center>
+                                            <h4>Hats  *   Gloves  *   Purses  *   Scarves</h4>
+                                            <div class="image" id="image1">
+                                               <img src="../img/IMG_1831.jpg" alt="img_1831">    
+                                            </div>
+
+                                           
+                                            <div class="image" id="image2">
+                                               <img src="../img/grey lace gloves.jpg" alt="grey lace gloves">
+                                            </div>
+
+                                          
+                                            <div class="image" id="image3">
+                                                <img src="../img/Coin purse collection.JPG" alt="coin purse collection">
+                                            </div>
+
+                                           
+                                            <div class="image" id="image4">
+                                                <img src="../img/IMG_0685.jpg" alt="img_0685">
+                                            </div>        
+                                        </center>    
+                                    </div>                                 
+                                </div>
+                                    <div class="container">
+                                        <div class="shop">
+                                                <div>
+                                                    <div class="box">
+                                                       <div>
+                                                        <div class="box-1">
+                                                            <center>
+                                                                <h6>
+                                                                    Pink/Brown Fingerless Gloves<br>
+                                                                    Size S-M<br>
+                                                                    $9.00<br>
+                                                                <button><i class="bi bi-cart-plus"></i></button>
+                                                                </h6>
+                                                            </center>
+                                                        </div>
+                                                    <div>
+                                                        <div>
+                                                            <center>
+                                                                <img src="../img/Pink Fingerless Gloves (2).jpg" alt="pink fingerless gloves 2">
+                                                            </center>
+                                                        </div>     
+                                                    </div>
+                                                </div>
+                        
+                                                <div>
+                                                    <div class="box-2">
+                                                        <center>
+                                                            <h6>
+                                                                Pink/Brown Hat<br>
+                                                                Size: M<br>
+                                                                $10.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                            </h6>
+                                                        </center>
+                                                    </div>   
+                                                        <div>
+                                                            <center>
+                                                                <img src="../img/Pink fall hat pic2.JPG" alt="pink fall hat">
+                                                            </center>
+                                                        </div>
+                                                </div>
+                        
+                                               <div>
+                                                    <div class="box-3">
+                                                        <center>
+                                                            <h6>
+                                                                Pink/Brown Hat and Gloves<br>
+                                                                Size: S-M<br>
+                                                                $18.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                            </h6> 
+                                                        </center>
+                                                    </div>
+                                                </div>
+                                                    <div>
+                                                        <center>
+                                                            <img src="../img/Pink-Brown hat and gloves2.jpg" alt="pink-brown hat and gloves2">
+                                                        </center>
+                                                    </div>
+                                            
+                                               <div>
+                                                    <div class="box-4">
+                                                        <center>
+                                                            <h6>
+                                                                Teal Lace Gloves<br>
+                                                                Size: S<br>
+                                                                $9.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                            </h6>
+                                                        </center>
+                                                    </div>
+                                               </div>
+                                                    <div>
+                                                        <center>
+                                                            <img src="../img/teal gloves.JPG" alt="teal gloves">
+                                                        </center>  
+                                                    </div>
+                        
+                                               <div>
+                                                    <div class="box-5">
+                                                    <center>
+                                                        <h6> 
+                                                            Sky Blue Hat<br>
+                                                            Size: S-M<br>
+                                                            $10.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                        </h6>
+                                                    </center>
+                                                </div>
+                                               </div>
+                                                    <div>
+                                                        <center>
+                                                            <img src="../img/sky blue hat.jpg" alt="sky blue hat">
+                                                        </center>   
+                                                    </div>
+                        
+                                               <div>
+                                                    <div class="box-6">
+                                                       <center>
+                                                        <h6>
+                                                            Sky Blue Scarf<br>
+                                                            $15.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                        </h6>
+                                                       </center>
+                                                    </div>
+                                               </div>
+                                                    <div>
+                                                        <center>
+                                                            <img src="../img/sky blue scarf.jpg" alt="sky blue scarf">
+                                                        </center>   
+                                                    </div>
+                        
+                                            <div>
+                                                <div class="box-7">
+                                                    <center>
+                                                        <h6> Sky Blue Hat and Beaded Scarf<br>
+                                                            Size: S-M<br>
+                                                            $20.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                        </h6>
+                                                    </center>
+                                                </div>
+                                            </div>
+                                               <div>
+                                                <center>
+                                                    <img src="../img/Sky blue hat and beaded scarf .JPG" alt="sky blue hat and beaded scarf">
+                                                </center> 
+                                               </div>
+                        
+                                            <div>
+                                                <div class="box-8">
+                                                    <center>
+                                                        <h6>Purse with Wood Handles<br>
+                                                            $15.00<br>
+                                                            <button><i class="bi bi-cart-plus"></i></button>
+                                                        </h6>
+                                                    </center>
+                                                </div>
+                                            </div>
+                                               <div>
+                                                    <center>
+                                                        <img src="../img/purse with wood handles.jpg" alt="purse with wood handles">
+                                                    </center> 
+                                               </div>   
+                                            <div>
+                                                <div class="box" id="footer">
+                                                    <p><center>
+                                                        Contact Information<br>
+                                                    </center>
+                                                        Please email me if you have any questions or comments via alvaradomylanie@gmail.com
+                                                    </p>       
+                                                </div>
+                                            </div>                  
+                                        </div>    
+                                    </div>                                                                     
+                            </header>                           
+                        </header>
+                       <script>
+                       const button1 = document.getElementById("button1");
+                       const button2 = document.getElementById("button2");
+                       const button3 = document.getElementById("button3");
+                       const button4 = document.getElementById("button4");
+                       const button5 = document.getElementById("button5");
+                       const button6 = document.getElementById("button6");
+                       const button7 = document.getElementById("button7");
+                       const button8 = document.getElementById("button8");
+                       const button9 = document.getElementById("button9");
+
+                       button1.addEventListener("click", function(e) {   
+           const button1 = alert('Added to Cart Successfully');
+        });
+        const buttonA = document.getElementById("buttonA");
+        buttonA.addEventListener("click", function(e) {
+            const buttonA = alert('Product Description: Pink/Brown Fingerless Gloves; Size: S-M; $9.00; Fabric: Wool; Width: 3"; Wrist Circumference: 6.5"; Length: 9"');
+                
+        });
+        
+        button2.addEventListener("click", function(e) {   
+           const button2 = alert('Added to Cart Successfully');
+        });
+        const buttonB = document.getElementById("buttonB");
+        buttonB.addEventListener("click", function(e) {
+            const buttonB = alert('Product Description: Pink/Brown Fall Hat; Size: M; $10.00; Fabric: Wool; Circumference: 22.5"; Length: 8"');         
+        });
+        
+        button3.addEventListener("click", function(e) {   
+           const button3 = alert('Added to Cart Successfully');
+        });
+        const buttonC = document.getElementById("buttonC");
+        buttonC.addEventListener("click", function(e) {
+            const buttonC = alert('Procuct Description: Pink/Brown Hat and Gloves; Size: S-M; $18.00; Fabric: Wool');            
+        });
+
+        button4.addEventListener("click", function(e) {   
+           const button4 = alert('Added to Cart Successfully');
+        });
+        const buttonD = document.getElementById("buttonD");
+        buttonD.addEventListener("click", function(e) {
+        const buttonD = alert('Product Description: Teal Lace Gloves; Size: S;$9.00; Fabric: Acrylic; Width: 4"; Length: 7"');            
+        });
+
+        button5.addEventListener("click", function(e) {   
+           const button5 = alert('Added to Cart Successfully');
+        });
+        const buttonE = document.getElementById("buttonE");
+        buttonE.addEventListener("click", function(e) {
+        const buttonE = alert('Product Description: Sky Blue Hat; Size: S-M; $10.00; Fabric: Acrylic; Circumference: 22"; Cleaning: Hand wash recommended and lay flat to dry');            
+        });
+ 
+        button6.addEventListener("click", function(e) {   
+           const button6 = alert('Added to Cart Successfully');
+        });
+        const buttonF = document.getElementById("buttonF");
+        buttonF.addEventListener("click", function(e) {
+        const buttonF = alert('Product Description: Sky Blue Scarf;$15.00; Fabric: Acrylic; Length: 40"; Cleaning: Clean with care, hand wash recommended and lay flat to dry');            
+        }); 
+
+        button7.addEventListener("click", function(e) {   
+           const button7 = alert('Added to Cart Successfully');
+        });
+        const buttonG = document.getElementById("buttonG");
+        buttonG.addEventListener("click", function(e) {
+        const buttonG = alert('Product Description: Sky Blue Hat and Beaded Scarf; Size: S-M;  $20.00; Fabric: Acrylic');            
+        }); 
+                               
+        button8.addEventListener("click", function(e) {   
+           const button8 = alert('Added to Cart Successfully');
+        });
+        const buttonH = document.getElementById("buttonH"); 
+        buttonH.addEventListener("click", function(e) {
+        const buttonH = alert('Product Description: Purse with Wood Handles; $15.00; Fabric: Acrylic, Bamboo; Lining: Polyester');            
+        });        
+
+        button9.addEventListener("click", function(e) {   
+           const button9 = alert('Added to Cart Successfully');
+        });
+        const buttonI = document.getElementById("buttonI");
+        buttonI.addEventListener("click", function(e) {
+        const buttonI = alert('Product Description: Lattice Multicolor hat and gloves; *Hat* Length: 8"; Circumference: 21 1/2"; *Gloves* Length: 6"; Circumference: 7"; $20.00; Fabric: ?;');            
+        }); 
+
+        const bi biCart2= document.getElemtById("buttonbi biCart2");
+        bi biCart2.addEventListener("click", function(e) {
+        const buttonbi biCart2 = alert('View Cart')
+        });
+    </script>  
+</body>
