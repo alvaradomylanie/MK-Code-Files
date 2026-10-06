@@ -205,14 +205,31 @@ a {
     margin-top: 20px;
 }
 
+/****** View Cart ******/
+
+
 
 /****** Contact Page ******/
 
-img {
-    
-}
 
 /****** Checkout Page ******/
+#purchase-banner {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #2e7d32; /* green success color */
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    z-index: 9999;
+}
+.hidden {
+    display: none;
+}
+
 
 * {
     box-sizing: border-box;
@@ -336,6 +353,7 @@ input {
 }
 
 .header extra-hero h1 {
+    
     font-size: 60px;
     text-align: center;
 }
